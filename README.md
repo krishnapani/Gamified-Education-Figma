@@ -6,10 +6,14 @@ A simple interactive quiz:
 
 
 ![image](https://github.com/krishnapani/gamified-education-figma/assets/113685864/508998d5-2bdf-46b9-8a22-20477b5e8b1d) 
+
+
 Course Roadmap:
 
 
 ![image](https://github.com/krishnapani/gamified-education-figma/assets/113685864/f87246c7-9b1a-4cb4-be3f-a9aef16b68d9)
+
+
 A final quiz for each chapter:
 
 
